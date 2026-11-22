@@ -1,0 +1,4 @@
+zig-out/
+.zig-cache/
+corpus/
+__pycache__/

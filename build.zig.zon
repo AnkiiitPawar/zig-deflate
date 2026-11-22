@@ -1,0 +1,8 @@
+.{
+    .name = .zig_deflate,
+    .version = "0.1.0",
+    .fingerprint = 0x91202d5d9dfba55b,
+    .minimum_zig_version = "0.17.1",
+    .dependencies = .{},
+    .paths = .{ "build.zig", "build.zig.zon", "src", "LICENSE", "README.md" },
+}
