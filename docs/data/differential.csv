@@ -1,0 +1,7 @@
+damage,cases,both accept,both reject,disagree
+bit flips,3340,2039,1301,0
+byte inserted,3381,2319,1062,0
+byte overwritten,3367,1910,1457,0
+random bytes,3301,21,3280,0
+trailing junk,3373,3373,0,0
+truncated,3238,293,2945,0
